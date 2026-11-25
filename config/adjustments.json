@@ -1,0 +1,16 @@
+{
+  "excellent": 0.03,
+  "good": 0,
+  "average": -0.04,
+  "poor": -0.1,
+  "minor_accident": -0.05,
+  "major_accident": -0.15,
+  "flood_damage": -0.25,
+  "repainted": -0.02,
+  "full_service": 0.02,
+  "no_service_records": -0.04,
+  "insurance_expired": -0.015,
+  "insurance_third_party": -0.005,
+  "tyres_worn": -0.02,
+  "modified": -0.02
+}
